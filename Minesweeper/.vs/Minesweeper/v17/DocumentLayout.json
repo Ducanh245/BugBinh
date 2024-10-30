@@ -1,0 +1,853 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53995516-7BC6-4833-90AC-184E96D05C37}|Minesweeper\\Minesweeper.csproj|c:\\users\\hp\\downloads\\domin\\teambugbinh\\minesweeper\\minesweeper\\eventcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53995516-7BC6-4833-90AC-184E96D05C37}|Minesweeper\\Minesweeper.csproj|solutionrelative:minesweeper\\eventcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53995516-7BC6-4833-90AC-184E96D05C37}|Minesweeper\\Minesweeper.csproj|C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\minesweeper\\eventcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{53995516-7BC6-4833-90AC-184E96D05C37}|Minesweeper\\Minesweeper.csproj|solutionrelative:minesweeper\\eventcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53995516-7BC6-4833-90AC-184E96D05C37}|Minesweeper\\Minesweeper.csproj|C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\minesweeper\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53995516-7BC6-4833-90AC-184E96D05C37}|Minesweeper\\Minesweeper.csproj|solutionrelative:minesweeper\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53995516-7BC6-4833-90AC-184E96D05C37}|Minesweeper\\Minesweeper.csproj|C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\minesweeper\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{53995516-7BC6-4833-90AC-184E96D05C37}|Minesweeper\\Minesweeper.csproj|solutionrelative:minesweeper\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53995516-7BC6-4833-90AC-184E96D05C37}|Minesweeper\\Minesweeper.csproj|C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53995516-7BC6-4833-90AC-184E96D05C37}|Minesweeper\\Minesweeper.csproj|solutionrelative:Minesweeper\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53995516-7BC6-4833-90AC-184E96D05C37}|Minesweeper\\Minesweeper.csproj|C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\State.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53995516-7BC6-4833-90AC-184E96D05C37}|Minesweeper\\Minesweeper.csproj|solutionrelative:Minesweeper\\State.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53995516-7BC6-4833-90AC-184E96D05C37}|Minesweeper\\Minesweeper.csproj|C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\Custom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53995516-7BC6-4833-90AC-184E96D05C37}|Minesweeper\\Minesweeper.csproj|solutionrelative:Minesweeper\\Custom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53995516-7BC6-4833-90AC-184E96D05C37}|Minesweeper\\Minesweeper.csproj|C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\NameArchive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53995516-7BC6-4833-90AC-184E96D05C37}|Minesweeper\\Minesweeper.csproj|solutionrelative:Minesweeper\\NameArchive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53995516-7BC6-4833-90AC-184E96D05C37}|Minesweeper\\Minesweeper.csproj|C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\BestTime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53995516-7BC6-4833-90AC-184E96D05C37}|Minesweeper\\Minesweeper.csproj|solutionrelative:Minesweeper\\BestTime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53995516-7BC6-4833-90AC-184E96D05C37}|Minesweeper\\Minesweeper.csproj|C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\minesweeper\\besttime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{53995516-7BC6-4833-90AC-184E96D05C37}|Minesweeper\\Minesweeper.csproj|solutionrelative:minesweeper\\besttime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53995516-7BC6-4833-90AC-184E96D05C37}|Minesweeper\\Minesweeper.csproj|C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\minesweeper\\pictures\\interbsttime.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{53995516-7BC6-4833-90AC-184E96D05C37}|Minesweeper\\Minesweeper.csproj|solutionrelative:minesweeper\\pictures\\interbsttime.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53995516-7BC6-4833-90AC-184E96D05C37}|Minesweeper\\Minesweeper.csproj|C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\minesweeper\\pictures\\expbsttime.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{53995516-7BC6-4833-90AC-184E96D05C37}|Minesweeper\\Minesweeper.csproj|solutionrelative:minesweeper\\pictures\\expbsttime.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53995516-7BC6-4833-90AC-184E96D05C37}|Minesweeper\\Minesweeper.csproj|C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\Pictures\\BeginBstTime.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{53995516-7BC6-4833-90AC-184E96D05C37}|Minesweeper\\Minesweeper.csproj|solutionrelative:Minesweeper\\Pictures\\BeginBstTime.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53995516-7BC6-4833-90AC-184E96D05C37}|Minesweeper\\Minesweeper.csproj|C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\PicSmileControl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53995516-7BC6-4833-90AC-184E96D05C37}|Minesweeper\\Minesweeper.csproj|solutionrelative:Minesweeper\\PicSmileControl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53995516-7BC6-4833-90AC-184E96D05C37}|Minesweeper\\Minesweeper.csproj|C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\minesweeper\\picsmilecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{53995516-7BC6-4833-90AC-184E96D05C37}|Minesweeper\\Minesweeper.csproj|solutionrelative:minesweeper\\picsmilecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53995516-7BC6-4833-90AC-184E96D05C37}|Minesweeper\\Minesweeper.csproj|C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\Pictures\\WinnerSmile.bmp||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{53995516-7BC6-4833-90AC-184E96D05C37}|Minesweeper\\Minesweeper.csproj|solutionrelative:Minesweeper\\Pictures\\WinnerSmile.bmp||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53995516-7BC6-4833-90AC-184E96D05C37}|Minesweeper\\Minesweeper.csproj|C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\minesweeper\\custom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{53995516-7BC6-4833-90AC-184E96D05C37}|Minesweeper\\Minesweeper.csproj|solutionrelative:minesweeper\\custom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\Archive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Minesweeper\\Archive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\Archive.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Minesweeper\\Archive.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53995516-7BC6-4833-90AC-184E96D05C37}|Minesweeper\\Minesweeper.csproj|C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\minesweeper\\namearchive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{53995516-7BC6-4833-90AC-184E96D05C37}|Minesweeper\\Minesweeper.csproj|solutionrelative:minesweeper\\namearchive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53995516-7BC6-4833-90AC-184E96D05C37}|Minesweeper\\Minesweeper.csproj|C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\Custom.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53995516-7BC6-4833-90AC-184E96D05C37}|Minesweeper\\Minesweeper.csproj|solutionrelative:Minesweeper\\Custom.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53995516-7BC6-4833-90AC-184E96D05C37}|Minesweeper\\Minesweeper.csproj|C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53995516-7BC6-4833-90AC-184E96D05C37}|Minesweeper\\Minesweeper.csproj|solutionrelative:Minesweeper\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\obj\\Debug\\.NETFramework,Version=v4.8.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Minesweeper\\obj\\Debug\\.NETFramework,Version=v4.8.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper.suo||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Minesweeper.suo||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\About.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Minesweeper\\About.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\About.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Minesweeper\\About.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\Pictures\\Thumbs.db||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Minesweeper\\Pictures\\Thumbs.db||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\obj\\Minesweeper.csproj.FileList.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Minesweeper\\obj\\Minesweeper.csproj.FileList.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\bin\\Debug\\Minesweeper.exe||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n   \u011F\u011F\u011F\u011F8 !     \u0022     ",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Minesweeper\\bin\\Debug\\Minesweeper.exe||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n   \u011F\u011F\u011F\u011F8 !     \u0022     "
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\bin\\Debug\\Minesweeper.exe||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Minesweeper\\bin\\Debug\\Minesweeper.exe||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\hp\\downloads\\[sharecode.vn] full code game minesweeper windows c#\\[sharecode.vn] full code game minesweeper windows c#\\minesweeper\\minesweeper\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Downloads\\[Sharecode.vn] Full code game Minesweeper windows c#\\[Sharecode.vn] Full code game Minesweeper windows c#\\Minesweeper\\Minesweeper\\Properties\\Settings.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Downloads\\[Sharecode.vn] Full code game Minesweeper windows c#\\[Sharecode.vn] Full code game Minesweeper windows c#\\Minesweeper\\Minesweeper\\Properties\\Resources.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53995516-7BC6-4833-90AC-184E96D05C37}|Minesweeper\\Minesweeper.csproj|C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\Properties\\AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53995516-7BC6-4833-90AC-184E96D05C37}|Minesweeper\\Minesweeper.csproj|solutionrelative:Minesweeper\\Properties\\AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53995516-7BC6-4833-90AC-184E96D05C37}|Minesweeper\\Minesweeper.csproj|C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\NameArchive.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53995516-7BC6-4833-90AC-184E96D05C37}|Minesweeper\\Minesweeper.csproj|solutionrelative:Minesweeper\\NameArchive.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53995516-7BC6-4833-90AC-184E96D05C37}|Minesweeper\\Minesweeper.csproj|C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\EventControl.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53995516-7BC6-4833-90AC-184E96D05C37}|Minesweeper\\Minesweeper.csproj|solutionrelative:Minesweeper\\EventControl.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53995516-7BC6-4833-90AC-184E96D05C37}|Minesweeper\\Minesweeper.csproj|C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\PicSmileControl.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53995516-7BC6-4833-90AC-184E96D05C37}|Minesweeper\\Minesweeper.csproj|solutionrelative:Minesweeper\\PicSmileControl.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53995516-7BC6-4833-90AC-184E96D05C37}|Minesweeper\\Minesweeper.csproj|C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\BestTime.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53995516-7BC6-4833-90AC-184E96D05C37}|Minesweeper\\Minesweeper.csproj|solutionrelative:Minesweeper\\BestTime.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53995516-7BC6-4833-90AC-184E96D05C37}|Minesweeper\\Minesweeper.csproj|C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\Pictures\\OnDownSmile.bmp||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{53995516-7BC6-4833-90AC-184E96D05C37}|Minesweeper\\Minesweeper.csproj|solutionrelative:Minesweeper\\Pictures\\OnDownSmile.bmp||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53995516-7BC6-4833-90AC-184E96D05C37}|Minesweeper\\Minesweeper.csproj|C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\Pictures\\WrongFlag.bmp||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{53995516-7BC6-4833-90AC-184E96D05C37}|Minesweeper\\Minesweeper.csproj|solutionrelative:Minesweeper\\Pictures\\WrongFlag.bmp||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53995516-7BC6-4833-90AC-184E96D05C37}|Minesweeper\\Minesweeper.csproj|C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\Pictures\\LoserSmile.bmp||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{53995516-7BC6-4833-90AC-184E96D05C37}|Minesweeper\\Minesweeper.csproj|solutionrelative:Minesweeper\\Pictures\\LoserSmile.bmp||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53995516-7BC6-4833-90AC-184E96D05C37}|Minesweeper\\Minesweeper.csproj|C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\Pictures\\Eploded.bmp||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{53995516-7BC6-4833-90AC-184E96D05C37}|Minesweeper\\Minesweeper.csproj|solutionrelative:Minesweeper\\Pictures\\Eploded.bmp||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53995516-7BC6-4833-90AC-184E96D05C37}|Minesweeper\\Minesweeper.csproj|C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\Pictures\\Flag.bmp||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{53995516-7BC6-4833-90AC-184E96D05C37}|Minesweeper\\Minesweeper.csproj|solutionrelative:Minesweeper\\Pictures\\Flag.bmp||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53995516-7BC6-4833-90AC-184E96D05C37}|Minesweeper\\Minesweeper.csproj|C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\Pictures\\6.bmp||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{53995516-7BC6-4833-90AC-184E96D05C37}|Minesweeper\\Minesweeper.csproj|solutionrelative:Minesweeper\\Pictures\\6.bmp||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53995516-7BC6-4833-90AC-184E96D05C37}|Minesweeper\\Minesweeper.csproj|C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\Pictures\\ClickSmile.bmp||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{53995516-7BC6-4833-90AC-184E96D05C37}|Minesweeper\\Minesweeper.csproj|solutionrelative:Minesweeper\\Pictures\\ClickSmile.bmp||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53995516-7BC6-4833-90AC-184E96D05C37}|Minesweeper\\Minesweeper.csproj|C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\Pictures\\mine.bmp||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{53995516-7BC6-4833-90AC-184E96D05C37}|Minesweeper\\Minesweeper.csproj|solutionrelative:Minesweeper\\Pictures\\mine.bmp||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53995516-7BC6-4833-90AC-184E96D05C37}|Minesweeper\\Minesweeper.csproj|C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\Pictures\\5.bmp||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{53995516-7BC6-4833-90AC-184E96D05C37}|Minesweeper\\Minesweeper.csproj|solutionrelative:Minesweeper\\Pictures\\5.bmp||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53995516-7BC6-4833-90AC-184E96D05C37}|Minesweeper\\Minesweeper.csproj|C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\Pictures\\0.bmp||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{53995516-7BC6-4833-90AC-184E96D05C37}|Minesweeper\\Minesweeper.csproj|solutionrelative:Minesweeper\\Pictures\\0.bmp||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53995516-7BC6-4833-90AC-184E96D05C37}|Minesweeper\\Minesweeper.csproj|C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\Pictures\\4.bmp||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{53995516-7BC6-4833-90AC-184E96D05C37}|Minesweeper\\Minesweeper.csproj|solutionrelative:Minesweeper\\Pictures\\4.bmp||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53995516-7BC6-4833-90AC-184E96D05C37}|Minesweeper\\Minesweeper.csproj|C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\Pictures\\3.bmp||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{53995516-7BC6-4833-90AC-184E96D05C37}|Minesweeper\\Minesweeper.csproj|solutionrelative:Minesweeper\\Pictures\\3.bmp||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53995516-7BC6-4833-90AC-184E96D05C37}|Minesweeper\\Minesweeper.csproj|C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\Pictures\\2.bmp||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{53995516-7BC6-4833-90AC-184E96D05C37}|Minesweeper\\Minesweeper.csproj|solutionrelative:Minesweeper\\Pictures\\2.bmp||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53995516-7BC6-4833-90AC-184E96D05C37}|Minesweeper\\Minesweeper.csproj|C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\Pictures\\1.bmp||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{53995516-7BC6-4833-90AC-184E96D05C37}|Minesweeper\\Minesweeper.csproj|solutionrelative:Minesweeper\\Pictures\\1.bmp||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\Form1.cs",
+              "RelativeDocumentMoniker": "Minesweeper\\Form1.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\Form1.cs [Design]",
+              "RelativeToolTip": "Minesweeper\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T19:01:24.706Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\Form1.cs",
+              "RelativeDocumentMoniker": "Minesweeper\\Form1.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\Form1.cs",
+              "RelativeToolTip": "Minesweeper\\Form1.cs",
+              "ViewState": "AgIAAOoAAAAAAAAAAAAewLAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T19:17:28.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Custom.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\Custom.cs",
+              "RelativeDocumentMoniker": "Minesweeper\\Custom.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\Custom.cs",
+              "RelativeToolTip": "Minesweeper\\Custom.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T19:07:46.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NameArchive.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\NameArchive.cs",
+              "RelativeDocumentMoniker": "Minesweeper\\NameArchive.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\NameArchive.cs",
+              "RelativeToolTip": "Minesweeper\\NameArchive.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAADQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T12:40:51.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Minesweeper\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\Form1.Designer.cs",
+              "RelativeToolTip": "Minesweeper\\Form1.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T19:10:58.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EventControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\EventControl.cs",
+              "RelativeDocumentMoniker": "Minesweeper\\EventControl.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\EventControl.cs [Design]",
+              "RelativeToolTip": "Minesweeper\\EventControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T16:24:18.317Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EventControl.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\EventControl.cs",
+              "RelativeDocumentMoniker": "Minesweeper\\EventControl.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\EventControl.cs",
+              "RelativeToolTip": "Minesweeper\\EventControl.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAawB8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T07:53:34.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BestTime.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\BestTime.cs",
+              "RelativeDocumentMoniker": "Minesweeper\\BestTime.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\BestTime.cs",
+              "RelativeToolTip": "Minesweeper\\BestTime.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAABUAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T19:08:59.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "State.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\State.cs",
+              "RelativeDocumentMoniker": "Minesweeper\\State.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\State.cs",
+              "RelativeToolTip": "Minesweeper\\State.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T07:04:58.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BestTime.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\BestTime.cs",
+              "RelativeDocumentMoniker": "Minesweeper\\BestTime.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\BestTime.cs [Design]",
+              "RelativeToolTip": "Minesweeper\\BestTime.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T19:17:03.609Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InterBstTime.txt",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\Pictures\\InterBstTime.txt",
+              "RelativeDocumentMoniker": "Minesweeper\\Pictures\\InterBstTime.txt",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\Pictures\\InterBstTime.txt",
+              "RelativeToolTip": "Minesweeper\\Pictures\\InterBstTime.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-29T04:50:27.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ExpBstTime.txt",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\Pictures\\ExpBstTime.txt",
+              "RelativeDocumentMoniker": "Minesweeper\\Pictures\\ExpBstTime.txt",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\Pictures\\ExpBstTime.txt",
+              "RelativeToolTip": "Minesweeper\\Pictures\\ExpBstTime.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-29T04:47:36.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BeginBstTime.txt",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\Pictures\\BeginBstTime.txt",
+              "RelativeDocumentMoniker": "Minesweeper\\Pictures\\BeginBstTime.txt",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\Pictures\\BeginBstTime.txt",
+              "RelativeToolTip": "Minesweeper\\Pictures\\BeginBstTime.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-26T19:19:19.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "About.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\About.cs",
+              "RelativeDocumentMoniker": "Minesweeper\\About.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\About.cs",
+              "RelativeToolTip": "Minesweeper\\About.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T07:18:42.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Minesweeper.suo",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper.suo",
+              "RelativeDocumentMoniker": "Minesweeper.suo",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper.suo",
+              "RelativeToolTip": "Minesweeper.suo",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAOGSURBVDhPlZRfSFtXHMe/yc2NfxIbo9Y6Y2yN1RiLWtvqNpyrDmZBcCCMPUiHg1rqw57XdqOtQn1U26fi0x4GG0wGa0Hdnw6hKKRqsURNJHpltSZNYhsbTXNNbhJ77vHEGNra7QM/OL9fzv3mnPM9v4P9dHR0fB0MBuP/Mx4MDAycpwI7OzsqOtiHz\u002BfD4OAgwuEwq7wdlUoFi8WC5ubmmvb29k6NRqO\u002BpFAo3hCUJAmCIMgTUVhoYNVU3G4XxsbG4Pf7QTSyGhoaaltaWhT9/f3hNwQT1Nd/iOqqapalYpuzYXR0FF6vF1arVS7lNDU11XV3d/NKOuMARFHE2traXgQCAfbLLi6XC5OTkxgfH88iaeM7V5hgfn4Ot27fYhnQ1vYFKisrWbaLvFK73U7H7xUsLzfj8neXWQYczs\u002BHVqtFz40eVgGmpqawLCzT8d6WW1tbDxG3dCzdQ6fTobq6hsbGxkt4PB6QqwKHw4GjR4/RusGQNI8KNjY2arq6uuqJ6Bla3cd2MIw1uwdLD/\u002BFY8YJn3sdkUiEOO1GNCqxWUmoYF9fn6X5088uhALil5IYhV6vB8/ziEkxPHOuY/xHK37v\u002BxOGWAlOFFfBWFSEzs5vkJ2tlz9PIbHlK46J5Za/7kykO/9Zxc3emzCbyyFMr2Li52k4JwRsPAtg5t4clqaeQFgRcP3GNdIEXvZ5koQpBe5F7yHbfYcyU5cBdboanEqJlUdPsbm\u002BhZpzFtj\u002BXkQ4FEE0HIWBXPj3rZAXN7e5NI0ax04W4fEfdkzftSHof4WSWiOqPjeDT\u002BfZVNC2PPAMExgqCvDxV7XwrTyHixihyc6AuaEUBWX5UPEcmwXq8sLC/Fv7PUVQNiEiSlBySijJluPxHUQjUcSiMfkhYbMAk8mE76/\u002BgLy8w6ySJEVwkRz\u002BcM8oTKeLUXm2DAHPFiZ/mYHw8AkkIvxfSJgi5hj1UqH5CK/NycQnHXVQqTn6B/L9s/72GBFiSILVp6sY/nWYZbv9rFAq6DgheL\u002Bktkiv1WdWpGvTeNMpIzhyZrIR8k5lk2Tnc49nI9eoB8dx0Gg17FPSnuSK5ZOWlKGyQ0NDRvKeXSTFc\u002BR1SSNttR2Px\u002BWW4pWiOufRyJxhfeUFSuuKX5Z9ZPJn5PGbTqczThXeBXnGDaFQ6OTs7GwFaX56tr29vR\u002BQ2rckNlj8RKJ1ZGQkubwUgNfzA5xN2OIlygAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-10-27T12:42:15.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Archive.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\Archive.cs",
+              "RelativeDocumentMoniker": "Minesweeper\\Archive.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\Archive.cs",
+              "RelativeToolTip": "Minesweeper\\Archive.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T19:09:04.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Archive.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\Archive.Designer.cs",
+              "RelativeDocumentMoniker": "Minesweeper\\Archive.Designer.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\Archive.Designer.cs",
+              "RelativeToolTip": "Minesweeper\\Archive.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T19:20:46.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "About.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\About.Designer.cs",
+              "RelativeDocumentMoniker": "Minesweeper\\About.Designer.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\About.Designer.cs",
+              "RelativeToolTip": "Minesweeper\\About.Designer.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T07:18:51.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": ".NETFramework,Version=v4.8.AssemblyAttributes.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\obj\\Debug\\.NETFramework,Version=v4.8.AssemblyAttributes.cs",
+              "RelativeDocumentMoniker": "Minesweeper\\obj\\Debug\\.NETFramework,Version=v4.8.AssemblyAttributes.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\obj\\Debug\\.NETFramework,Version=v4.8.AssemblyAttributes.cs",
+              "RelativeToolTip": "Minesweeper\\obj\\Debug\\.NETFramework,Version=v4.8.AssemblyAttributes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T07:51:19.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Minesweeper.csproj.FileList.txt",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\obj\\Minesweeper.csproj.FileList.txt",
+              "RelativeDocumentMoniker": "Minesweeper\\obj\\Minesweeper.csproj.FileList.txt",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\obj\\Minesweeper.csproj.FileList.txt",
+              "RelativeToolTip": "Minesweeper\\obj\\Minesweeper.csproj.FileList.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-27T07:51:39.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Minesweeper.exe - 1 [Neutral] - RCDATA",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\bin\\Debug\\Minesweeper.exe",
+              "RelativeDocumentMoniker": "Minesweeper\\bin\\Debug\\Minesweeper.exe",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\bin\\Debug\\Minesweeper.exe - 1 [Neutral] - RCDATA",
+              "RelativeToolTip": "Minesweeper\\bin\\Debug\\Minesweeper.exe - 1 [Neutral] - RCDATA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000165|",
+              "WhenOpened": "2024-10-27T07:51:04.813Z",
+              "EditorCaption": " - 1 [Neutral] - RCDATA"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Minesweeper.exe",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\bin\\Debug\\Minesweeper.exe",
+              "RelativeDocumentMoniker": "Minesweeper\\bin\\Debug\\Minesweeper.exe",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\bin\\Debug\\Minesweeper.exe",
+              "RelativeToolTip": "Minesweeper\\bin\\Debug\\Minesweeper.exe",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000165|",
+              "WhenOpened": "2024-10-27T07:50:59.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Thumbs.db",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\Pictures\\Thumbs.db",
+              "RelativeDocumentMoniker": "Minesweeper\\Pictures\\Thumbs.db",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\Pictures\\Thumbs.db",
+              "RelativeToolTip": "Minesweeper\\Pictures\\Thumbs.db",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAIKSURBVDhPrZXfS1NhGMe/EynnCI7roG2w3OaOa4vMcgV2YQjdeWV3QlBmECQIYlMKVMRQYnhRiSQUhQjd9D\u002BsC3HJbhTaav7YHMdIsoGghW5nO72Op9yB98hJ\u002BsDhPc/7fPmc9z0HzmsC8WggmAJUJ5VHYFpXCmgPhUKLNHGIqqolwofqyOgYVfoMDz6G2Wze3vm518qTltH4T9zp7BJOWSrCwWCwkab\u002BcizhGZtdV3os4QF60nIauWxsbiGxJsMvOWGrthbnBEEovscShPIyhNlYdVBwhb/29rH0eQ3Z/Sx2dncRX0kimZYhuR3o7eun1CHsAQLd8rccW07h\u002B1YGhUIegQYf8nkF6Y1vkL9uUkIfrrDR54GiKPA4HXCdtcPrrmV1Dhd8EiX00VlhErlcFrHEKlaSaSzFl1mdw4f5KCX04QptNSL7CGJREp5bQJ6ttlqsQnPTRUrowxXWiFZcb25CA9tixckT8HvduNFyDSlZRvfAIBY/xfAjk6G0Fq7wD7UOOzputsFb58KLV2/x8s0sztd78GxqGtOvZyil5UhhKX6prih70HWbfZxzqJfc1NFiWBj/ksBCNIqJ55OYj3xkV4Q6WgwL797qQM/9e4gwWX9vD54MD1FHi2GheNqKwOVLeP9uFlevBGCxVFJHi2GhUf67sOSP3ceOAJOBI4CHuj7\u002BdMIFAL8B2kWpjQLikHsAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-10-27T07:18:24.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Resources.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\[Sharecode.vn] Full code game Minesweeper windows c#\\[Sharecode.vn] Full code game Minesweeper windows c#\\Minesweeper\\Minesweeper\\Properties\\Resources.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\[Sharecode.vn] Full code game Minesweeper windows c#\\[Sharecode.vn] Full code game Minesweeper windows c#\\Minesweeper\\Minesweeper\\Properties\\Resources.Designer.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\[Sharecode.vn] Full code game Minesweeper windows c#\\[Sharecode.vn] Full code game Minesweeper windows c#\\Minesweeper\\Minesweeper\\Properties\\Resources.Designer.cs",
+              "RelativeToolTip": "..\\..\\..\\[Sharecode.vn] Full code game Minesweeper windows c#\\[Sharecode.vn] Full code game Minesweeper windows c#\\Minesweeper\\Minesweeper\\Properties\\Resources.Designer.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T19:21:02.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Settings.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\[Sharecode.vn] Full code game Minesweeper windows c#\\[Sharecode.vn] Full code game Minesweeper windows c#\\Minesweeper\\Minesweeper\\Properties\\Settings.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\[Sharecode.vn] Full code game Minesweeper windows c#\\[Sharecode.vn] Full code game Minesweeper windows c#\\Minesweeper\\Minesweeper\\Properties\\Settings.Designer.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\[Sharecode.vn] Full code game Minesweeper windows c#\\[Sharecode.vn] Full code game Minesweeper windows c#\\Minesweeper\\Minesweeper\\Properties\\Settings.Designer.cs",
+              "RelativeToolTip": "..\\..\\..\\[Sharecode.vn] Full code game Minesweeper windows c#\\[Sharecode.vn] Full code game Minesweeper windows c#\\Minesweeper\\Minesweeper\\Properties\\Settings.Designer.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T19:21:28.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PicSmileControl.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\PicSmileControl.cs",
+              "RelativeDocumentMoniker": "Minesweeper\\PicSmileControl.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\PicSmileControl.cs",
+              "RelativeToolTip": "Minesweeper\\PicSmileControl.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAADgv0EAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T12:40:59.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PicSmileControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\PicSmileControl.cs",
+              "RelativeDocumentMoniker": "Minesweeper\\PicSmileControl.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\PicSmileControl.cs [Design]",
+              "RelativeToolTip": "Minesweeper\\PicSmileControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T02:46:07.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "WinnerSmile.bmp",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\Pictures\\WinnerSmile.bmp",
+              "RelativeDocumentMoniker": "Minesweeper\\Pictures\\WinnerSmile.bmp",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\Pictures\\WinnerSmile.bmp",
+              "RelativeToolTip": "Minesweeper\\Pictures\\WinnerSmile.bmp",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-27T07:18:36.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Custom.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\Custom.cs",
+              "RelativeDocumentMoniker": "Minesweeper\\Custom.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\Custom.cs [Design]",
+              "RelativeToolTip": "Minesweeper\\Custom.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T19:17:07.026Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "NameArchive.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\NameArchive.cs",
+              "RelativeDocumentMoniker": "Minesweeper\\NameArchive.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\NameArchive.cs [Design]",
+              "RelativeToolTip": "Minesweeper\\NameArchive.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T19:01:27.892Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Custom.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\Custom.Designer.cs",
+              "RelativeDocumentMoniker": "Minesweeper\\Custom.Designer.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\Custom.Designer.cs",
+              "RelativeToolTip": "Minesweeper\\Custom.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T07:53:28.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\Program.cs",
+              "RelativeDocumentMoniker": "Minesweeper\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\Program.cs",
+              "RelativeToolTip": "Minesweeper\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T19:16:20.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Minesweeper\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Minesweeper\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T12:45:37.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "NameArchive.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\NameArchive.Designer.cs",
+              "RelativeDocumentMoniker": "Minesweeper\\NameArchive.Designer.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\NameArchive.Designer.cs",
+              "RelativeToolTip": "Minesweeper\\NameArchive.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T12:42:05.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "EventControl.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\EventControl.Designer.cs",
+              "RelativeDocumentMoniker": "Minesweeper\\EventControl.Designer.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\EventControl.Designer.cs",
+              "RelativeToolTip": "Minesweeper\\EventControl.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T12:41:56.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "PicSmileControl.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\PicSmileControl.Designer.cs",
+              "RelativeDocumentMoniker": "Minesweeper\\PicSmileControl.Designer.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\PicSmileControl.Designer.cs",
+              "RelativeToolTip": "Minesweeper\\PicSmileControl.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T12:42:08.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "BestTime.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\BestTime.Designer.cs",
+              "RelativeDocumentMoniker": "Minesweeper\\BestTime.Designer.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\BestTime.Designer.cs",
+              "RelativeToolTip": "Minesweeper\\BestTime.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T07:53:00.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "OnDownSmile.bmp",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\Pictures\\OnDownSmile.bmp",
+              "RelativeDocumentMoniker": "Minesweeper\\Pictures\\OnDownSmile.bmp",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\Pictures\\OnDownSmile.bmp",
+              "RelativeToolTip": "Minesweeper\\Pictures\\OnDownSmile.bmp",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-27T07:51:58.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "WrongFlag.bmp",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\Pictures\\WrongFlag.bmp",
+              "RelativeDocumentMoniker": "Minesweeper\\Pictures\\WrongFlag.bmp",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\Pictures\\WrongFlag.bmp",
+              "RelativeToolTip": "Minesweeper\\Pictures\\WrongFlag.bmp",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-26T19:19:31.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "LoserSmile.bmp",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\Pictures\\LoserSmile.bmp",
+              "RelativeDocumentMoniker": "Minesweeper\\Pictures\\LoserSmile.bmp",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\Pictures\\LoserSmile.bmp",
+              "RelativeToolTip": "Minesweeper\\Pictures\\LoserSmile.bmp",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-26T19:19:26.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Eploded.bmp",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\Pictures\\Eploded.bmp",
+              "RelativeDocumentMoniker": "Minesweeper\\Pictures\\Eploded.bmp",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\Pictures\\Eploded.bmp",
+              "RelativeToolTip": "Minesweeper\\Pictures\\Eploded.bmp",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-26T19:19:24.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Flag.bmp",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\Pictures\\Flag.bmp",
+              "RelativeDocumentMoniker": "Minesweeper\\Pictures\\Flag.bmp",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\Pictures\\Flag.bmp",
+              "RelativeToolTip": "Minesweeper\\Pictures\\Flag.bmp",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-26T19:19:59.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "6.bmp",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\Pictures\\6.bmp",
+              "RelativeDocumentMoniker": "Minesweeper\\Pictures\\6.bmp",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\Pictures\\6.bmp",
+              "RelativeToolTip": "Minesweeper\\Pictures\\6.bmp",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-26T19:20:04.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ClickSmile.bmp",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\Pictures\\ClickSmile.bmp",
+              "RelativeDocumentMoniker": "Minesweeper\\Pictures\\ClickSmile.bmp",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\Pictures\\ClickSmile.bmp",
+              "RelativeToolTip": "Minesweeper\\Pictures\\ClickSmile.bmp",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-26T19:19:22.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "mine.bmp",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\Pictures\\mine.bmp",
+              "RelativeDocumentMoniker": "Minesweeper\\Pictures\\mine.bmp",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\Pictures\\mine.bmp",
+              "RelativeToolTip": "Minesweeper\\Pictures\\mine.bmp",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-26T19:19:12.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "5.bmp",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\Pictures\\5.bmp",
+              "RelativeDocumentMoniker": "Minesweeper\\Pictures\\5.bmp",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\Pictures\\5.bmp",
+              "RelativeToolTip": "Minesweeper\\Pictures\\5.bmp",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-26T19:06:04.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "0.bmp",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\Pictures\\0.bmp",
+              "RelativeDocumentMoniker": "Minesweeper\\Pictures\\0.bmp",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\Pictures\\0.bmp",
+              "RelativeToolTip": "Minesweeper\\Pictures\\0.bmp",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-26T19:05:55.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "4.bmp",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\Pictures\\4.bmp",
+              "RelativeDocumentMoniker": "Minesweeper\\Pictures\\4.bmp",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\Pictures\\4.bmp",
+              "RelativeToolTip": "Minesweeper\\Pictures\\4.bmp",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-26T19:06:02.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "3.bmp",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\Pictures\\3.bmp",
+              "RelativeDocumentMoniker": "Minesweeper\\Pictures\\3.bmp",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\Pictures\\3.bmp",
+              "RelativeToolTip": "Minesweeper\\Pictures\\3.bmp",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-26T19:06:01.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "2.bmp",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\Pictures\\2.bmp",
+              "RelativeDocumentMoniker": "Minesweeper\\Pictures\\2.bmp",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\Pictures\\2.bmp",
+              "RelativeToolTip": "Minesweeper\\Pictures\\2.bmp",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-26T19:06:00.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "1.bmp",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\Pictures\\1.bmp",
+              "RelativeDocumentMoniker": "Minesweeper\\Pictures\\1.bmp",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\domin\\teambugbinh\\Minesweeper\\Minesweeper\\Pictures\\1.bmp",
+              "RelativeToolTip": "Minesweeper\\Pictures\\1.bmp",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-26T19:05:58.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Settings.settings",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\[Sharecode.vn] Full code game Minesweeper windows c#\\[Sharecode.vn] Full code game Minesweeper windows c#\\Minesweeper\\Minesweeper\\Properties\\Settings.settings",
+              "RelativeDocumentMoniker": "..\\..\\..\\[Sharecode.vn] Full code game Minesweeper windows c#\\[Sharecode.vn] Full code game Minesweeper windows c#\\Minesweeper\\Minesweeper\\Properties\\Settings.settings",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\[Sharecode.vn] Full code game Minesweeper windows c#\\[Sharecode.vn] Full code game Minesweeper windows c#\\Minesweeper\\Minesweeper\\Properties\\Settings.settings",
+              "RelativeToolTip": "..\\..\\..\\[Sharecode.vn] Full code game Minesweeper windows c#\\[Sharecode.vn] Full code game Minesweeper windows c#\\Minesweeper\\Minesweeper\\Properties\\Settings.settings",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
+              "WhenOpened": "2024-10-26T19:21:32.002Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
